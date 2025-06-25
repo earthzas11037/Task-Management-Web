@@ -54,3 +54,10 @@ yarn dev
 ```bash
 http://localhost:3000
 ```
+
+### list of improvements will make with more time
+- Unit test
+- Beautiful Responsive UI
+- Router Manage
+- Layout
+- Switch mode task list
