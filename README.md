@@ -48,3 +48,9 @@ yarn install
 ```bash
 yarn dev
 ```
+
+### 4. Web
+
+```bash
+http://localhost:3000
+```
