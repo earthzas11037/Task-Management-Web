@@ -61,3 +61,9 @@ http://localhost:3000
 - Router Manage
 - Layout
 - Switch mode task list
+
+
+## Web Deployment
+```
+https://task-project-react.vercel.app/
+```
